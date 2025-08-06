@@ -1,0 +1,26 @@
+.box {
+  margin-top:200px ;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin-left: 450px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.box h2 {
+  font-size: 18px;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.box span {
+  color: gold;
+}
+
+.random {
+  font-size: 72px;
+  font-weight: bold;
+  margin-top: 20px;
+}
